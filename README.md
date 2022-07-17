@@ -27,12 +27,14 @@ Rural areas have the least drivers with the most average fare per driver and the
 
 Suburban areas sit in the middle of these statistics. 
 
-Pie Plot Chart:
-![Pie Chart City Types](./resources/Pie%20Chart%20City%20Types.png)
+## Data Visualization
 
+Pie Plot Chart:
+
+![Pie Chart City Types](https://github.com/ABorden23/PyBer_Analysis/blob/main/Resources/Pie%20Chart%20City%20Types.png)
 
 Ride Sharing Data:
-![Summary of Rides, Drivers,Fares](./resources/Summary%20of%20Rides%2C%20Drivers%2CFares%20.png)
+![Summary of Rides, Drivers,Fares](https://github.com/ABorden23/PyBer_Analysis/blob/main/Resources/Summary%20of%20Rides%2C%20Drivers%2CFares%20.png)
 
 Observations of Summary Table:
 ![Fare_Summary_Plot](./analysis/Fare_Summary_Plot.png)
