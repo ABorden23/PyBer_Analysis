@@ -45,6 +45,6 @@ Observations of Summary Table:
 
 Three Recomendations for the CEO
 
-* Increase marketing efforts in Rural areas to attract more drivers to increase toal fares.
+* Increase marketing efforts in Rural areas to attract more drivers to increase total fares.
 * Offer double fare earnings opportunities to drivers in Urban areas during peak ridesharing hours to maximize total fares.
 * During late Febuary and early April offer sign on bonuses to new drivers to increase overall fares.
